@@ -5,9 +5,9 @@
         "Eva",
         "Artemovna"
     ],
-    "wife": [
-        "Daria",
-        "Sergeevna",
-        "Alekseeva"
-    ]
+    "wife": {
+        "name": "Daria",
+        "secondname": "Sergeevna",
+        "lastname": "Alekseeva"
+    }
 }
